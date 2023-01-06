@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drive Buddy</string>
+    <string name="todo">TODO</string>
+    <string name="turn_on_drive_buddy">Turn on Drive Buddy</string>
+</resources>
