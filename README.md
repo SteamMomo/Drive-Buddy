@@ -1,3 +1,3 @@
 # Drive-Buddy
 
-Tell your contacts you are driving without even touching your phone.
+Tells your contacts you are driving without you even touching your phone.
